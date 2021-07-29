@@ -56,7 +56,6 @@
     font-size: 1em;
     cursor: pointer;
     user-select: none;
-    pointer-events: none;
 }
 
 .box {
@@ -99,7 +98,6 @@
     color: white;
     cursor: pointer;
     user-select: none;
-    pointer-events: none;
 }
 
 #my-canvas {
